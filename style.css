@@ -1,0 +1,26 @@
+
+#ul1{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: green;
+}
+#ul1 li{
+    float: left;
+
+}
+#ul1 li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+#ul1 li a:hover{
+    background-color: aqua;
+}
+img{
+    width: 500;
+    height: 500;
+}
